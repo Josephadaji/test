@@ -1,1 +1,2 @@
-This is for frontend test
+This is for frontend test.
+This should be nice for everyone in the team.
